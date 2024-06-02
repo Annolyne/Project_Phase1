@@ -19,7 +19,7 @@ To understand the types of films the new Microsoft studio needs to produce, we f
 
 
 Description of Data
-Datasets obtained from the above movie box sites for this analysis. The data sets are named 'tn.movie.budgets.csv' and *bom.movie_gross.csv 
+Datasets obtained from movie box sites for this analysis. The data sets are named 'tn.movie.budgets.csv' and *bom.movie_gross.csv 
 
 The datasets are suitable for the analysis as they provide information on the following:
 
@@ -27,3 +27,9 @@ Production budgets
 Gross earnings (both domestic and worldwide)
 Release Dates
 The information helps us to understand movie performance, Movie popularity, and whether production costs and release dates influence movie performance.
+
+DATA VISUALIZATION 
+
+Frequency of Movies Released Each Month for Top 200 Movies
+
+![Movie Monthly production](https://github.com/Annolyne/Project_Phase1/assets/164388849/7f81838f-b29a-4cb2-a12a-a3a092770413)
