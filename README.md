@@ -1,25 +1,25 @@
-Phase1_Project
+**Phase1_Project**
 
 Using data to drive strategic business decisions for Microsoft to make decisition to venture into the movie industry
 
-OVERVIEW
+**OVERVIEW**
 
 The objective was to examine data on movies to determine why they perform the way they do and recommend the best types of movies for Microsoft’s new studio to produce. The success of James Cameron’s Avatar movies shows that choosing the right types of films can bring in good results. Historical data on films can help determine what types of films to invest in.
 
-BUSINESS UNDERSTANDING
+**BUSINESS UNDERSTANDING**
 
 Producing profitable films is crucial for Microsoft's new studio, as it yields benefits for shareholders, employees, and customers alike. Shareholders experience increased profits, ensuring a positive return on investment. Employees are rewarded with competitive compensation, fostering job satisfaction and motivation. Additionally, customers are treated to a steady stream of high-quality films, enhancing their entertainment experience. Focusing on profitable film types is essential for Microsoft's success in the industry.
 
 
-DATA UNDERSTANDING
+**DATA UNDERSTANDING**
 
-Sources of Data
+_Sources of Data_
 To understand the types of films the new Microsoft studio needs to produce, we first need to examine how the industry has perfomed, films that have performed well in the box office and their genres, and try to use statistical data to infer the reasons why they performed well and how that can be replicated by the studio.
 
 
 
-Description of Data
-Datasets obtained from the above movie box sites for this analysis. The data sets are named 'tn.movie.budgets.csv' and *bom.movie_gross.csv 
+_Description of Data_
+Datasets obtained from movie box sites for this analysis. The data sets are named 'tn.movie.budgets.csv' and *bom.movie_gross.csv 
 
 The datasets are suitable for the analysis as they provide information on the following:
 
@@ -28,6 +28,7 @@ Gross earnings (both domestic and worldwide)
 Release Dates
 The information helps us to understand movie performance, Movie popularity, and whether production costs and release dates influence movie performance.
 
+<<<<<<< HEAD
 **DATA VISUALIZATION **
 
 Frequency of Movies Released Each Month for Top 200 Movies
@@ -62,3 +63,6 @@ Based on these findings, I propose four strategic actions for Microsoft's movie 
 3.**Optimize Release Timing:** Explore releasing movies during peak months for box office success, such as May, June, July, and November and December. These months typically witness the release of highest-grossing films, indicating increased audience engagement. Collaborating with seasoned studios can provide valuable insights into the factors driving audience behavior during these periods.
 
 4**Evaluate Additional Factors:** Explore additional factors beyond the scope of this analysis that may influence box office performance, such as marketing strategies, audience demographics, and critical reception. Incorporating these considerations into the movie development process can further improve Microsoft's chances of success..
+=======
+
+>>>>>>> 90bbf7868def86d3f4e749bfcdbb440636e45817
